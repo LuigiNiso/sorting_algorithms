@@ -6,7 +6,6 @@
 int main(void)
 {
     int arr[] = {6, 3, 7, 12, 9, 21, 2};
-    int tmp = 0;
 
     for (size_t j = 0; j < SIZE - 1; j++)
     {
