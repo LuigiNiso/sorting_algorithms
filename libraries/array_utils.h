@@ -1,4 +1,5 @@
 // array_utils.h
+#include <stdbool.h>
 #ifndef ARRAY_UTILS_H
 #define ARRAY_UTILS_H
 
