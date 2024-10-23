@@ -1,3 +1,4 @@
 bin
 .h
 .vscode
+.DS_Store
